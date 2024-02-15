@@ -1,0 +1,13 @@
+h1 {
+	color: blue;
+	font-weight: bold;
+}
+
+.row {
+	margin-bottom: 10px;
+}
+
+.row > div {
+	border: 2px solid red;
+	background-color: orange;
+}

@@ -1,0 +1,8 @@
+Browser Sync
+>> browser-sync start --server --directory --files "*"
+
+Git Hub
+>> git status
+>> git add .
+>> git commit -m "Add Comment" || For access >> git config --global user.email "gaura@GauJ"
+>> git push
